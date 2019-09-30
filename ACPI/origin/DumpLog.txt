@@ -1,0 +1,174 @@
+3:866  3:154  Found BIOS RSDP at EF180
+3:866  0:000  Printing ACPI tables from RSDP EF180 ...
+3:866  0:000   EF180: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+3:866  0:000    (Xsdt: D952D0A8, Rsdt: D952D028)
+3:866  0:000    D952D0A8: 'XSDT', 'CBX3', Rev: 1, Len: 212
+3:866  0:000    D952D028: 'RSDT', 'CBX3', Rev: 1, Len: 124
+3:866  0:000    Tables in Xsdt: 22
+3:866  0:000    0. D9541A68: 'FACP', 'CBX3', Rev: 5, Len: 268
+3:866  0:000        (Dsdt: D952D210, Facs: DA44BF80, XDsdt: D952D210, XFacs: 0)
+3:866  0:000        D952D210: 'DSDT', 'CBX3', Rev: 2, Len: 84052
+3:866  0:000        DA44BF80: 'FACS', Ver: 2, Len: 64
+3:866  0:000    1. D9541B78: 'APIC', 'CBX3', Rev: 3, Len: 132
+3:866  0:000    2. D9541C00: 'FPDT', 'CBX3', Rev: 1, Len: 68
+3:866  0:000    3. D9541C48: 'FIDT', 'CBX3', Rev: 1, Len: 156
+3:866  0:000    4. D9541CE8: 'MCFG', 'CBX3', Rev: 1, Len: 60
+3:866  0:000    5. D9541D28: 'HPET', 'CBX3', Rev: 1, Len: 56
+3:866  0:000    6. D9541D60: 'SSDT', 'SataTabl', Rev: 1, Len: 1205
+3:866  0:000    7. D9542218: 'UEFI', '', Rev: 1, Len: 66
+3:866  0:000    8. D9542260: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 3197
+3:866  0:000    9. D9542EE0: 'ASF!', ' HCG', Rev: 32, Len: 160
+3:866  0:000    10. D9542F80: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1311
+3:866  0:000    11. D95434A0: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+3:866  0:000    12. D9544018: 'SSDT', 'LakeTiny', Rev: 2, Len: 455
+3:866  0:000    13. D95441E0: 'SSDT', 'CppcTabl', Rev: 2, Len: 933
+3:866  0:000    14. D9544588: 'PCCT', 'PcctTabl', Rev: 5, Len: 110
+3:866  0:000    15. D95445F8: 'SSDT', 'Cpc_Tabl', Rev: 2, Len: 2756
+3:866  0:000    16. D95450C0: 'SSDT', 'SaSsdt', Rev: 2, Len: 16812
+3:866  0:000    17. D9549270: 'SSDT', 'DptfTabl', Rev: 1, Len: 17672
+3:866  0:000    18. D954D778: 'SLIC', 'CBX3', Rev: 3, Len: 374
+3:866  0:000    19. D954D8F0: 'MSDM', 'CBX3', Rev: 3, Len: 85
+3:866  0:000    20. D954D948: 'DMAR', 'BDW', Rev: 1, Len: 176
+3:866  0:000    21. D954D9F8: 'BGRT', '', Rev: 0, Len: 56
+3:866  0:000    Tables in Rsdt: 22
+3:866  0:000    0. D952D188: 'FACP', 'CBX3', Rev: 2, Len: 132
+3:866  0:000        (Dsdt: D952D210, Facs: DA44BF40)
+3:866  0:000        D952D210: 'DSDT', 'CBX3', Rev: 2, Len: 84052
+3:866  0:000        DA44BF40: 'FACS', Ver: 0, Len: 64
+3:866  0:000    1. D9541B78: 'APIC', 'CBX3', Rev: 3, Len: 132
+3:866  0:000    2. D9541C00: 'FPDT', 'CBX3', Rev: 1, Len: 68
+3:866  0:000    3. D9541C48: 'FIDT', 'CBX3', Rev: 1, Len: 156
+3:866  0:000    4. D9541CE8: 'MCFG', 'CBX3', Rev: 1, Len: 60
+3:866  0:000    5. D9541D28: 'HPET', 'CBX3', Rev: 1, Len: 56
+3:866  0:000    6. D9541D60: 'SSDT', 'SataTabl', Rev: 1, Len: 1205
+3:866  0:000    7. D9542218: 'UEFI', '', Rev: 1, Len: 66
+3:866  0:000    8. D9542260: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 3197
+3:866  0:000    9. D9542EE0: 'ASF!', ' HCG', Rev: 32, Len: 160
+3:866  0:000    10. D9542F80: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1311
+3:866  0:000    11. D95434A0: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+3:866  0:000    12. D9544018: 'SSDT', 'LakeTiny', Rev: 2, Len: 455
+3:866  0:000    13. D95441E0: 'SSDT', 'CppcTabl', Rev: 2, Len: 933
+3:866  0:000    14. D9544588: 'PCCT', 'PcctTabl', Rev: 5, Len: 110
+3:866  0:000    15. D95445F8: 'SSDT', 'Cpc_Tabl', Rev: 2, Len: 2756
+3:866  0:000    16. D95450C0: 'SSDT', 'SaSsdt', Rev: 2, Len: 16812
+3:866  0:000    17. D9549270: 'SSDT', 'DptfTabl', Rev: 1, Len: 17672
+3:866  0:000    18. D954D778: 'SLIC', 'CBX3', Rev: 3, Len: 374
+3:866  0:000    19. D954D8F0: 'MSDM', 'CBX3', Rev: 3, Len: 85
+3:866  0:000    20. D954D948: 'DMAR', 'BDW', Rev: 1, Len: 176
+3:866  0:000    21. D954D9F8: 'BGRT', '', Rev: 0, Len: 56
+3:866  0:000  Found UEFI Acpi 2.0 RSDP at D952D000
+3:866  0:000  Saving ACPI tables from RSDP D952D000 to EFI\CLOVER\ACPI\origin ...
+3:866  0:000   D952D000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36 -> RSDP.aml
+3:874  0:008    (Xsdt: D952D0A8, Rsdt: D952D028)
+3:874  0:000    D952D0A8: 'XSDT', 'CBX3', Rev: 1, Len: 212 -> XSDT.aml
+3:885  0:011    D952D028: 'RSDT', 'CBX3', Rev: 1, Len: 124 -> RSDT.aml
+3:895  0:010    Tables in Xsdt: 22
+3:895  0:000    0. D9541A68: 'FACP', 'CBX3', Rev: 5, Len: 268 -> FACP.aml
+3:906  0:010        (Dsdt: D952D210, Facs: DA44BF80, XDsdt: D952D210, XFacs: 0)
+3:906  0:000        D952D210: 'DSDT', 'CBX3', Rev: 2, Len: 84052 -> DSDT.aml
+3:917  0:011        DA44BF80: 'FACS', Ver: 2, Len: 64 -> FACS.aml
+3:929  0:011    1. D9541B78: 'APIC', 'CBX3', Rev: 3, Len: 132 -> APIC.aml
+3:938  0:008    2. D9541C00: 'FPDT', 'CBX3', Rev: 1, Len: 68 -> FPDT.aml
+3:948  0:010    3. D9541C48: 'FIDT', 'CBX3', Rev: 1, Len: 156 -> FIDT.aml
+3:957  0:008    4. D9541CE8: 'MCFG', 'CBX3', Rev: 1, Len: 60 -> MCFG.aml
+3:967  0:010    5. D9541D28: 'HPET', 'CBX3', Rev: 1, Len: 56 -> HPET.aml
+3:977  0:009    6. D9541D60: 'SSDT', 'SataTabl', Rev: 1, Len: 1205 -> SSDT-0.aml
+3:986  0:009    7. D9542218: 'UEFI', '', Rev: 1, Len: 66 -> UEFI.aml
+3:995  0:009    8. D9542260: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 3197 -> SSDT-1.aml
+4:006  0:010    9. D9542EE0: 'ASF!', ' HCG', Rev: 32, Len: 160 -> ASF!.aml
+4:015  0:009    10. D9542F80: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1311 -> SSDT-2.aml
+4:024  0:008    11. D95434A0: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932 -> SSDT-3.aml
+4:034  0:010    12. D9544018: 'SSDT', 'LakeTiny', Rev: 2, Len: 455 -> SSDT-4.aml
+4:043  0:008    13. D95441E0: 'SSDT', 'CppcTabl', Rev: 2, Len: 933 -> SSDT-5.aml
+4:053  0:009    14. D9544588: 'PCCT', 'PcctTabl', Rev: 5, Len: 110 -> PCCT.aml
+4:062  0:008    15. D95445F8: 'SSDT', 'Cpc_Tabl', Rev: 2, Len: 2756 -> SSDT-6.aml
+4:073  0:011    16. D95450C0: 'SSDT', 'SaSsdt', Rev: 2, Len: 16812 -> SSDT-7.aml
+4:082  0:009    17. D9549270: 'SSDT', 'DptfTabl', Rev: 1, Len: 17672 -> SSDT-8.aml
+4:093  0:010    18. D954D778: 'SLIC', 'CBX3', Rev: 3, Len: 374 -> SLIC.aml
+4:102  0:009    19. D954D8F0: 'MSDM', 'CBX3', Rev: 3, Len: 85 -> MSDM.aml
+4:110  0:008    20. D954D948: 'DMAR', 'BDW', Rev: 1, Len: 176 -> DMAR.aml
+4:121  0:010    21. D954D9F8: 'BGRT', '', Rev: 0, Len: 56 -> BGRT.aml
+4:131  0:009    Tables in Rsdt: 22
+4:131  0:000    0. D952D188: 'FACP', 'CBX3', Rev: 2, Len: 132 -> RSDT-FACP.aml
+4:139  0:008        (Dsdt: D952D210, Facs: DA44BF40)
+4:139  0:000        D952D210: 'DSDT', 'CBX3', Rev: 2, Len: 84052
+4:139  0:000        DA44BF40: 'FACS', Ver: 0, Len: 64 -> RSDT-FACS.aml
+4:150  0:010    1. D9541B78: 'APIC', 'CBX3', Rev: 3, Len: 132
+4:150  0:000    2. D9541C00: 'FPDT', 'CBX3', Rev: 1, Len: 68
+4:150  0:000    3. D9541C48: 'FIDT', 'CBX3', Rev: 1, Len: 156
+4:150  0:000    4. D9541CE8: 'MCFG', 'CBX3', Rev: 1, Len: 60
+4:150  0:000    5. D9541D28: 'HPET', 'CBX3', Rev: 1, Len: 56
+4:150  0:000    6. D9541D60: 'SSDT', 'SataTabl', Rev: 1, Len: 1205
+4:150  0:000    7. D9542218: 'UEFI', '', Rev: 1, Len: 66
+4:150  0:000    8. D9542260: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 3197
+4:150  0:000    9. D9542EE0: 'ASF!', ' HCG', Rev: 32, Len: 160
+4:150  0:000    10. D9542F80: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1311
+4:150  0:000    11. D95434A0: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+4:150  0:000    12. D9544018: 'SSDT', 'LakeTiny', Rev: 2, Len: 455
+4:150  0:000    13. D95441E0: 'SSDT', 'CppcTabl', Rev: 2, Len: 933
+4:150  0:000    14. D9544588: 'PCCT', 'PcctTabl', Rev: 5, Len: 110
+4:150  0:000    15. D95445F8: 'SSDT', 'Cpc_Tabl', Rev: 2, Len: 2756
+4:150  0:000    16. D95450C0: 'SSDT', 'SaSsdt', Rev: 2, Len: 16812
+4:150  0:000    17. D9549270: 'SSDT', 'DptfTabl', Rev: 1, Len: 17672
+4:150  0:000    18. D954D778: 'SLIC', 'CBX3', Rev: 3, Len: 374
+4:150  0:000    19. D954D8F0: 'MSDM', 'CBX3', Rev: 3, Len: 85
+4:150  0:000    20. D954D948: 'DMAR', 'BDW', Rev: 1, Len: 176
+4:150  0:000    21. D954D9F8: 'BGRT', '', Rev: 0, Len: 56
+4:150  0:000  Found UEFI Acpi 1.0 RSDP at D952D000
+4:150  0:000  Printing ACPI tables from RSDP D952D000 ...
+4:150  0:000   D952D000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+4:150  0:000    (Xsdt: D952D0A8, Rsdt: D952D028)
+4:150  0:000    D952D0A8: 'XSDT', 'CBX3', Rev: 1, Len: 212
+4:150  0:000    D952D028: 'RSDT', 'CBX3', Rev: 1, Len: 124
+4:150  0:000    Tables in Xsdt: 22
+4:150  0:000    0. D9541A68: 'FACP', 'CBX3', Rev: 5, Len: 268
+4:150  0:000        (Dsdt: D952D210, Facs: DA44BF80, XDsdt: D952D210, XFacs: 0)
+4:150  0:000        D952D210: 'DSDT', 'CBX3', Rev: 2, Len: 84052
+4:150  0:000        DA44BF80: 'FACS', Ver: 2, Len: 64
+4:150  0:000    1. D9541B78: 'APIC', 'CBX3', Rev: 3, Len: 132
+4:150  0:000    2. D9541C00: 'FPDT', 'CBX3', Rev: 1, Len: 68
+4:150  0:000    3. D9541C48: 'FIDT', 'CBX3', Rev: 1, Len: 156
+4:150  0:000    4. D9541CE8: 'MCFG', 'CBX3', Rev: 1, Len: 60
+4:150  0:000    5. D9541D28: 'HPET', 'CBX3', Rev: 1, Len: 56
+4:150  0:000    6. D9541D60: 'SSDT', 'SataTabl', Rev: 1, Len: 1205
+4:150  0:000    7. D9542218: 'UEFI', '', Rev: 1, Len: 66
+4:150  0:000    8. D9542260: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 3197
+4:150  0:000    9. D9542EE0: 'ASF!', ' HCG', Rev: 32, Len: 160
+4:150  0:000    10. D9542F80: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1311
+4:150  0:000    11. D95434A0: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+4:150  0:000    12. D9544018: 'SSDT', 'LakeTiny', Rev: 2, Len: 455
+4:150  0:000    13. D95441E0: 'SSDT', 'CppcTabl', Rev: 2, Len: 933
+4:150  0:000    14. D9544588: 'PCCT', 'PcctTabl', Rev: 5, Len: 110
+4:150  0:000    15. D95445F8: 'SSDT', 'Cpc_Tabl', Rev: 2, Len: 2756
+4:150  0:000    16. D95450C0: 'SSDT', 'SaSsdt', Rev: 2, Len: 16812
+4:150  0:000    17. D9549270: 'SSDT', 'DptfTabl', Rev: 1, Len: 17672
+4:150  0:000    18. D954D778: 'SLIC', 'CBX3', Rev: 3, Len: 374
+4:150  0:000    19. D954D8F0: 'MSDM', 'CBX3', Rev: 3, Len: 85
+4:150  0:000    20. D954D948: 'DMAR', 'BDW', Rev: 1, Len: 176
+4:150  0:000    21. D954D9F8: 'BGRT', '', Rev: 0, Len: 56
+4:150  0:000    Tables in Rsdt: 22
+4:150  0:000    0. D952D188: 'FACP', 'CBX3', Rev: 2, Len: 132
+4:150  0:000        (Dsdt: D952D210, Facs: DA44BF40)
+4:150  0:000        D952D210: 'DSDT', 'CBX3', Rev: 2, Len: 84052
+4:150  0:000        DA44BF40: 'FACS', Ver: 0, Len: 64
+4:150  0:000    1. D9541B78: 'APIC', 'CBX3', Rev: 3, Len: 132
+4:150  0:000    2. D9541C00: 'FPDT', 'CBX3', Rev: 1, Len: 68
+4:150  0:000    3. D9541C48: 'FIDT', 'CBX3', Rev: 1, Len: 156
+4:150  0:000    4. D9541CE8: 'MCFG', 'CBX3', Rev: 1, Len: 60
+4:150  0:000    5. D9541D28: 'HPET', 'CBX3', Rev: 1, Len: 56
+4:150  0:000    6. D9541D60: 'SSDT', 'SataTabl', Rev: 1, Len: 1205
+4:150  0:000    7. D9542218: 'UEFI', '', Rev: 1, Len: 66
+4:150  0:000    8. D9542260: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 3197
+4:150  0:000    9. D9542EE0: 'ASF!', ' HCG', Rev: 32, Len: 160
+4:150  0:000    10. D9542F80: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1311
+4:150  0:000    11. D95434A0: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+4:150  0:000    12. D9544018: 'SSDT', 'LakeTiny', Rev: 2, Len: 455
+4:150  0:000    13. D95441E0: 'SSDT', 'CppcTabl', Rev: 2, Len: 933
+4:150  0:000    14. D9544588: 'PCCT', 'PcctTabl', Rev: 5, Len: 110
+4:150  0:000    15. D95445F8: 'SSDT', 'Cpc_Tabl', Rev: 2, Len: 2756
+4:150  0:000    16. D95450C0: 'SSDT', 'SaSsdt', Rev: 2, Len: 16812
+4:150  0:000    17. D9549270: 'SSDT', 'DptfTabl', Rev: 1, Len: 17672
+4:150  0:000    18. D954D778: 'SLIC', 'CBX3', Rev: 3, Len: 374
+4:150  0:000    19. D954D8F0: 'MSDM', 'CBX3', Rev: 3, Len: 85
+4:150  0:000    20. D954D948: 'DMAR', 'BDW', Rev: 1, Len: 176
+4:150  0:000    21. D954D9F8: 'BGRT', '', Rev: 0, Len: 56
